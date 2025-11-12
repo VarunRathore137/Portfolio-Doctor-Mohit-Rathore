@@ -4,8 +4,7 @@
 
 # 📝 Description
 
-This elegant and user-friendly portfolio website is designed to establish a strong digital presence for Dr. Mohit Rathore in the medical field. The website combines professional aesthetics with practical functionality, making it easy for patients to learn about the doctor's expertise, view credentials, understand available services, and get in touch for consultations. Built with modern web technologies, the site ensures a seamless experience across all devices while maintaining the dignity and professionalism expected in the healthcare sector.
-
+Dr. Mohit Rathore's elegant, user-friendly portfolio website creates a strong digital presence in the medical field. It allows patients to easily view his credentials, services, and expertise, ensuring a professional and seamless experience across all devices.
 
 ## 📋 Overview
 
