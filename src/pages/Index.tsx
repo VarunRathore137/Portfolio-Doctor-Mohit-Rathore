@@ -216,14 +216,14 @@ const Index = () => {
 
             <div className="relative">
               {/* Timeline Line */}
-              <div className="absolute left-8 top-0 bottom-0 w-0.5 bg-border md:left-1/2" />
+              <div className="absolute left-4 md:left-1/2 top-0 bottom-0 w-0.5 bg-border -translate-x-1/2 md:-translate-x-0" />
 
               {/* Timeline Items */}
               <div className="space-y-12">
                 {/* Current MD Position */}
                 <div className="relative">
                   <div className="flex flex-col md:flex-row gap-8">
-                    <div className="md:w-1/2 md:text-right md:pr-12">
+                    <div className="md:w-1/2 md:text-right md:pr-12 pl-12 md:pl-0">
                       <div className="inline-block px-4 py-2 bg-accent text-white rounded-lg font-semibold mb-2">
                         2025 - Present
                       </div>
@@ -236,18 +236,17 @@ const Index = () => {
                         healthcare setting.
                       </p>
                     </div>
-                    <div className="absolute left-8 top-0 w-4 h-4 bg-accent rounded-full border-4 border-background md:left-1/2 md:-ml-2" />
+                    <div className="absolute left-4 top-0 w-4 h-4 bg-accent rounded-full border-4 border-background md:left-1/2 md:-translate-x-1/2 -translate-x-1/2" />
                     <div className="md:w-1/2 md:pl-12" />
                   </div>
                 </div>
 
-                                {/* Medical Internship */}
                 {/* Medical Internship */}
                 <div className="relative">
                   <div className="flex flex-col md:flex-row gap-8">
                     <div className="md:w-1/2 md:pr-12" />
-                    <div className="absolute left-8 top-0 w-4 h-4 bg-primary rounded-full border-4 border-background md:left-1/2 md:-ml-2" />
-                    <div className="md:w-1/2 md:pl-12">
+                    <div className="absolute left-4 top-0 w-4 h-4 bg-primary rounded-full border-4 border-background md:left-1/2 md:-translate-x-1/2 -translate-x-1/2" />
+                    <div className="md:w-1/2 md:pl-12 pl-12">
                       <div className="inline-block px-4 py-2 bg-primary text-white rounded-lg font-semibold mb-2">
                         2024 - 2025
                       </div>
@@ -266,7 +265,7 @@ const Index = () => {
                 {/* Board Certification */}
                 <div className="relative">
                   <div className="flex flex-col md:flex-row gap-8">
-                    <div className="md:w-1/2 md:text-right md:pr-12">
+                    <div className="md:w-1/2 md:text-right md:pr-12 pl-12 md:pl-0">
                       <div className="inline-block px-4 py-2 bg-accent text-white rounded-lg font-semibold mb-2">
                         2024
                       </div>
@@ -277,19 +276,17 @@ const Index = () => {
                         board certification, authorized to practice medicine independently.
                       </p>
                     </div>
-                    <div className="absolute left-8 top-0 w-4 h-4 bg-accent rounded-full border-4 border-background md:left-1/2 md:-ml-2" />
+                    <div className="absolute left-4 top-0 w-4 h-4 bg-accent rounded-full border-4 border-background md:left-1/2 md:-translate-x-1/2 -translate-x-1/2" />
                     <div className="md:w-1/2 md:pl-12" />
                   </div>
                 </div>
-
-
 
                 {/* Medical School */}
                 <div className="relative">
                   <div className="flex flex-col md:flex-row gap-8">
                     <div className="md:w-1/2 md:pr-12" />
-                    <div className="absolute left-8 top-0 w-4 h-4 bg-primary rounded-full border-4 border-background md:left-1/2 md:-ml-2" />
-                    <div className="md:w-1/2 md:pl-12">
+                    <div className="absolute left-4 top-0 w-4 h-4 bg-primary rounded-full border-4 border-background md:left-1/2 md:-translate-x-1/2 -translate-x-1/2" />
+                    <div className="md:w-1/2 md:pl-12 pl-12">
                       <div className="inline-block px-4 py-2 bg-primary text-white rounded-lg font-semibold mb-2">
                         2019 - 2025
                       </div>
