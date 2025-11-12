@@ -1,4 +1,4 @@
-import { Activity, Award, BookOpen, Brain, Heart, Linkedin, Mail, MapPin, Phone, Shield, Stethoscope, Users } from "lucide-react";
+import { Activity, Award, BookOpen, Brain, Heart, Mail, MapPin, Phone, Shield, Stethoscope, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import Navigation from "@/components/Navigation";
@@ -82,7 +82,7 @@ const Index = () => {
               </div>
               
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary leading-tight">
-                Dr. Mohit Rathore, MBBS, MD
+                Dr. Mohit Rathore, MBBS
               </h1>
               
               <p className="text-xl md:text-2xl text-muted-foreground font-medium">
@@ -227,7 +227,7 @@ const Index = () => {
                       <div className="inline-block px-4 py-2 bg-accent text-white rounded-lg font-semibold mb-2">
                         2025 - Present
                       </div>
-                      <h3 className="text-xl font-bold text-primary mb-2">MD Position</h3>
+                      <h3 className="text-xl font-bold text-primary mb-2">Medical Officer </h3>
                       <p className="text-foreground font-medium mb-2">Civil Hospital Ujjain, Madhya Pradesh</p>
                       <p className="text-muted-foreground">
                         Currently serving as a General Physician at Civil Hospital Ujjain, providing 
@@ -251,7 +251,7 @@ const Index = () => {
                         2024 - 2025
                       </div>
                       <h3 className="text-xl font-bold text-primary mb-2">Medical Internship</h3>
-                      <p className="text-foreground font-medium mb-2">Sanskar Hospital Police Line, Dewas, Madhya Pradesh</p>
+                      <p className="text-foreground font-medium mb-2">Amaltas Hospital, Dewas, Madhya Pradesh</p>
                       <p className="text-muted-foreground">
                         Completed comprehensive clinical internship, gaining hands-on experience 
                         across multiple departments including emergency medicine, internal medicine, surgery, 
@@ -453,7 +453,7 @@ const Index = () => {
                       <h4 className="font-semibold mb-1">Consultation Timings</h4>
                       <p className="text-muted-foreground">
                         Monday - Friday: 9:00 AM - 5:00 PM<br />
-                        Outpatient Department (OPD)
+                        Emergency Ward and Outpatient Department (OPD) 
                       </p>
                     </div>
                   </div>
@@ -461,7 +461,7 @@ const Index = () => {
                   <div className="p-4 bg-accent/10 rounded-lg border border-accent/20">
                     <p className="text-sm text-foreground">
                       <strong>Note:</strong> Consultations are provided at the hospital. 
-                      Please contact the hospital directly or visit the OPD during the timings above.
+                      Please contact the hospital directly or visit the Emergency Ward and Outpatient Department (OPD) during the timings above.
                     </p>
                   </div>
                 </div>
@@ -503,7 +503,7 @@ const Index = () => {
             <div className="text-center mb-6">
               <div className="inline-flex items-center gap-2 mb-4">
                 <Stethoscope className="w-6 h-6" />
-                <span className="font-semibold text-lg">Dr. Mohit Rathore, MBBS, MD</span>
+                <span className="font-semibold text-lg">Dr. Mohit Rathore, MBBS</span>
               </div>
               <p className="text-white/80">Civil Hospital Ujjain</p>
             </div>

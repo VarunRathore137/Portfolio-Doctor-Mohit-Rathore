@@ -17,7 +17,7 @@ const Navigation = () => {
             className="flex items-center gap-2 font-semibold text-lg text-primary hover:text-accent transition-smooth"
           >
             <Stethoscope className="w-5 h-5" />
-            <span>Dr. Mohit Rathore, MBBS, MD</span>
+            <span>Dr. Mohit Rathore, MBBS</span>
           </button>
 
           <nav className="hidden md:flex items-center gap-8">
