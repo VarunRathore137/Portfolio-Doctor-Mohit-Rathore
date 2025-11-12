@@ -1,6 +1,11 @@
 # Dr. Mohit Rathore - Professional Portfolio
 
-A modern, responsive portfolio website showcasing the professional profile, qualifications, and services of Dr. Mohit Rathore.
+> A modern, responsive portfolio website showcasing the professional profile, qualifications, and services of Dr. Mohit Rathore.
+
+# 📝 Description
+
+This elegant and user-friendly portfolio website is designed to establish a strong digital presence for Dr. Mohit Rathore in the medical field. The website combines professional aesthetics with practical functionality, making it easy for patients to learn about the doctor's expertise, view credentials, understand available services, and get in touch for consultations. Built with modern web technologies, the site ensures a seamless experience across all devices while maintaining the dignity and professionalism expected in the healthcare sector.
+
 
 ## 📋 Overview
 
