@@ -1,6 +1,10 @@
 # Dr. Mohit Rathore - Professional Portfolio
 
-A modern, responsive portfolio website showcasing the professional profile, qualifications, and services of Dr. Mohit Rathore.
+> A modern, responsive portfolio website showcasing the professional profile, qualifications, and services of Dr. Mohit Rathore.
+
+# 📝 Description
+
+Dr. Mohit Rathore's elegant, user-friendly portfolio website creates a strong digital presence in the medical field. It allows patients to easily view his credentials, services, and expertise, ensuring a professional and seamless experience across all devices.
 
 ## 📋 Overview
 
@@ -19,8 +23,8 @@ This portfolio website serves as a comprehensive digital presence for Dr. Mohit 
 
 - HTML5
 - CSS3
-- JavaScript
-- [Add any frameworks/libraries used, e.g., Bootstrap, React, etc.]
+- TypeScipt
+- EmailJS
 
 ## 🚀 Getting Started
 
@@ -99,9 +103,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-**Dr. Mohit Rathore**
+**Varun Rathore**
 - GitHub: [@VarunRathore137](https://github.com/VarunRathore137)
-- Portfolio: [Live Website Link]
+- LinkedIn: [@VarunRathore137](https://www.linkedin.com/in/varun-rathore137)
 
 ## 📄 License
 
